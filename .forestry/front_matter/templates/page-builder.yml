@@ -33,5 +33,6 @@ fields:
   - 4-column-footer
 pages:
 - page1.md
+- page1.md
 - index.md
 - index.md
