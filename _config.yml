@@ -15,8 +15,6 @@ defaults:
   values:
     layout: default
 markdown: kramdown
-gems:
-- je
-- ''
+plugins:
 - jekyll-feed
 - jekyll-menus
