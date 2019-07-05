@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: hero
   create: all
-  match: "**/*"
   templates:
   - hero-banner-w-image
 - type: document
