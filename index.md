@@ -79,6 +79,10 @@ page_sections:
   block: media-1
   image: ''
   caption: ''
+- template: signup-bar
+  block: cta-bar
+  content: ''
+  email_recipient: ''
 
 ---
 foo bar
